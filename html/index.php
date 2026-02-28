@@ -28,8 +28,8 @@
 <body>
   <div class="container mt-5">
     <div class="jumbotron">
-      <h1 class="display-4">Tecnologías de la Digitalización 2024-2025</h1>
-      <p class="lead">Aplicación PHP y MySQL con contenedores desplegada mediante Terraform</p>
+      <h1 class="display-4">Tecnologías de la Digitalización</h1>
+      <p class="lead">Aplicación PHP y MySQL con contenedores desplegada mediante OpenTofu</p>
       <hr class="my-4">
       <p>Contenedor para Apache/PHP y otro para MySQL con almacenamiento de aplicación y de datos en volúmenes externos.</p>
     </div>
